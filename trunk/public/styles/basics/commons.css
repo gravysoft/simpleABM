@@ -1,0 +1,66 @@
+#container{
+    height: 700px;
+}    
+.footer {
+  height: 250px;
+  background-color: #FFA51F;
+} 
+
+.navbar-default .navbar-nav > li > a {
+    color: #F5F5F5;
+}
+.navbar-default {
+  background-color: #FFA51F;
+}
+
+.navbar-default .navbar-brand {
+    color: #F5F5F5;
+}
+.panel-heading > .dropdown .dropdown-toggle {
+  color: #F5F5F5;
+}
+
+.navbar-default .navbar-nav > .open > a, 
+.navbar-default .navbar-nav > .open > a:hover, 
+.navbar-default .navbar-nav > .open > a:focus {
+color: #555555;
+background-color: #F5F5F5;
+}
+
+.dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus {
+color: #F5F5F5;
+text-decoration: none;
+background-color: #FFA51F;
+}
+
+.notificaciones{
+    background-color: #FFA51F;
+}
+
+.mTop25{
+    margin-top: 25px;
+}
+
+.padTop20{
+    padding-top: 20px;
+}
+
+.padRight20{
+    padding-right: 20px;
+}
+
+.padRight30{
+    padding-right: 30px;
+}
+
+.padRight40{
+    padding-right: 40px;
+}
+
+.aRight{
+    text-align: right;
+}
+
+.textWhite{
+    color: #F5F5F5;
+}
