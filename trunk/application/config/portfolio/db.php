@@ -8,8 +8,8 @@ return array(
 		'driver'	=> 'mysql',		// Always lowercase
 		'host'		=> 'localhost',
 		'username'	=> 'root',
-		'password'	=> 'turbo12.',
-		'dbname'	=> 'gravysoft',
+		'password'	=> '',
+		'dbname'	=> '',
 		'port'		=> 3306,
 		'charset'	=> 'utf8'		// A valid database charset
 	)
